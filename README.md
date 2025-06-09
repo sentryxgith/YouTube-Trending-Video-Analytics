@@ -27,8 +27,8 @@ A Python-based project for collecting and analyzing YouTube data using the YouTu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sentryxgith/YouTube-Data-Collection-and-Analysis-with-Python.git
-   cd YouTube-Data-Collection-and-Analysis-with-Python
+   git clone https://github.com/sentryxgith/YouTube-Trending-Video-Analytics.git
+   cd YouTube-Trending-Video-Analytics
    ```
 
 2. Obtain your YouTube Data API key:
