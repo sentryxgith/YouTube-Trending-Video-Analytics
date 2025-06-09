@@ -2,7 +2,7 @@ import pandas as pd
 from googleapiclient.discovery import build
 
 # replace with your own API key
-API_KEY = 'AIzaSyCj0a8puuK-vPmXQboeWmIxlb597uv8GTo'
+API_KEY = 'YOUR_API_KEY'
 
 def get_trending_videos(api_key, max_results=200):
     # build the youtube service
